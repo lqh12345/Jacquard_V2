@@ -1,14 +1,12 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)
 # Contents
-- [Heading One](#heading-one)
-- [Heading Two](#heading-two)
-	- [AAA](#aaa)
-	- [bbb](#bbb)
-
+- [Introduction](#section1)
+- [Quick Start for Jacquard V2](#section2)
+- [Reference](#section3)
 
 # Toolbox for Jacquard V2 Dataset
 
-## Introduction
+## Introduction <span id=section1>
 
 Jacquard V2 is a dataset for robot vision grasping tasks, which is an enhanced version of the Jacquard dataset. It consists of 11K target objects and 51K images. All images have the RGB-D modality. The annotations include multiple gripper sizes, multiple grasps per image, and grasp locations.
 
@@ -31,7 +29,7 @@ Among them, the green boxes represent the data in the Jacquard V1 dataset, and t
 <img src="https://github.com/lqh12345/Jacquard_V2/blob/main/figure/JacquardV1_VS_JacquardV2.png" width="60%">
 
 
-## Quick Start for Jacquard V2
+## Quick Start for Jacquard V2 <span id=section2>
 
 To get started, follow the instructions in this section. We will introduce the simple steps and how you can customize the configuration.&#x20;
 
@@ -119,7 +117,7 @@ cd your_project_dir
 python your_script_name.py path_to_dataset_dir your_config.yaml
 ```
 
-## Reference
+## Reference <span id=section3>
 
 Please cite the following paper if you find Jacquard V2 dataset and toolbox benefit your research. Thank you for your support!&#x20;
 ```
