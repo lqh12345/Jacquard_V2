@@ -1,4 +1,4 @@
-![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)
+翻译成英语：![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)
 
 # Toolbox for Jacquard V2 Dataset
 
@@ -10,7 +10,11 @@ For more details and demos about Jacquard V2 dataset, please refer to _**[[Paper
 
 <span id=download>Please download the dataset</span> through _**[[One Drive]](https://xxxxxxx)**_ or _**[[Baidu Netdisk]](https://pan.baidu.com/s/14SIj1jGyMdYjmKPWMI056Q?pwd=1234)**_.
 
-JacquardV2 (ours) compared to JacquardV1, shows significant improvement in the results.
+### Jacquard V2 (ours) compared to Jacquard V1
+
+
+### Jacquard V2 (ours) compared to Jacquard V1
+Among them, the green boxes represent the data in the Jacquard V1 dataset, and the red boxes are the additions we made in our Jacquard V2.
 ![figure](https://github.com/lqh12345/Jacquard_V2/blob/main/figure/JacquardV1_VS_JacquardV2.png)
 
 ## Quick Start for Jacquard V2
