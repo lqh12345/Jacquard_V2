@@ -13,6 +13,7 @@ For more details and demos about Jacquard V2 dataset, please refer to _**[[Paper
 ### Errors present in JacquardV1
 The following are three types of problems that exist in Jacquard V1.
 ![figure](https://github.com/lqh12345/Jacquard_V2/blob/main/figure/Errors%20present%20in%20JacquardV1.png){:height="70%" width="70%"}
+<img src="https://github.com/lqh12345/Jacquard_V2/blob/main/figure/Errors%20present%20in%20JacquardV1.png" width="60%">
 
 ### Refining Datasets using the Human In the Loop Data Correction Method
 ![figure](https://github.com/lqh12345/Jacquard_V2/blob/main/figure/Overall%20flowchart.png)
