@@ -10,9 +10,9 @@
 
 Jacquard V2 is a dataset for robot vision grasping tasks, which is an enhanced version of the Jacquard dataset. It consists of 11K target objects and 51K images. All images have the RGB-D modality. The annotations include multiple gripper sizes, multiple grasps per image, and grasp locations.
 
-For more details and demos about Jacquard V2 dataset, please refer to _**[[Paper]](https://xxxxxxxx).**_
+For more details and demos about Jacquard V2 dataset, please refer to _**[[Paper]](https://arxiv.org/abs/2402.05747).**_
 
-<span id=download>Please download the dataset</span> through _**[[One Drive]](https://xxxxxxx)**_ or _**[[Baidu Netdisk]](https://pan.baidu.com/s/14SIj1jGyMdYjmKPWMI056Q?pwd=1234)**_.
+<span id=download>Please download the dataset</span> through _**[[One Drive]](https://entuedu-my.sharepoint.com/:f:/g/personal/shyuan_staff_main_ntu_edu_sg/Ei8t3v7CLGRCudFhaDxAUFgBOtG7n27fZ0KTwvvrmrx8Wg?e=L5tAwg)**_ or _**[[Baidu Netdisk]](https://pan.baidu.com/s/14SIj1jGyMdYjmKPWMI056Q?pwd=1234)**_.
 
 ### Errors present in JacquardV1
 The following are three types of problems that exist in Jacquard V1.
