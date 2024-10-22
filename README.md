@@ -121,11 +121,12 @@ python your_script_name.py path_to_dataset_dir your_config.yaml
 
 Please cite the following paper if you find Jacquard V2 dataset and toolbox benefit your research. Thank you for your support!&#x20;
 ```
-@inproceedings{li2024jacquardv2,
-  title={Jacquard V2: Refining Datasets using the Human In the Loop Data Correction Method},
-  author={Li, Qiuhao  and Yuan, Shenghai},
-  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+@INPROCEEDINGS{li2024jacquardv2,
+  author={Li, Qiuhao and Yuan, Shenghai},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Jacquard V2: Refining Datasets using the Human In the Loop Data Correction Method}, 
   year={2024},
-  organization={IEEE}
+  pages={7932-7938},
+  doi={10.1109/ICRA57147.2024.10611652}
 }
 ```
